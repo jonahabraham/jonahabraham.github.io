@@ -1,0 +1,34 @@
+body{
+background-color:pink;
+	color:blue;
+}
+
+a:link{
+	background_color:pink;
+	backround-color:white;
+}	
+
+a:visited{
+	backround-color:pink;
+	backround-color:white;
+}
+
+a:hover{
+	backround-color:orange;
+	backround-color:pink;
+	font-size:20px;
+}
+
+img{
+	height:150;
+}
+
+div{
+	backround-color:white;
+	color:blue;
+	margin:30px;
+	padding:25px;
+	border-radius:30px;
+	text-align:center;
+}
+
